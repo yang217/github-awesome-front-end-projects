@@ -13,7 +13,7 @@
 
 
 
-![图片描述][1]
+
 
 
 
@@ -21,7 +21,7 @@
 
 The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和组件，很实用。里面的项目也都托管到了github
 
-![图片描述][2]
+
 
 # 目录
 
@@ -76,7 +76,6 @@ The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和�
 这是一款语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架。`star:17500`
 
 
-![图片描述][14]
 
  - [primer][15]   `CSS`风格指南。`star:3600`
 
